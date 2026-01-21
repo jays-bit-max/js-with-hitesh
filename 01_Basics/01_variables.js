@@ -11,9 +11,9 @@ let accountAlive = true  // This is boolean datatype variable declaration
 /* Its me multi line comment */
 // This is me single line comment
 
-console.log(accountId);
-console.log(accoountEmail);
-console.log(accountPassword);
-console.log(accountCity);
+// console.log(accountId);
+// console.log(accoountEmail);
+// console.log(accountPassword);
+// console.log(accountCity);
 
 console.table([accountId, accoountEmail, accountPassword, accountCity, accountAddress, accountSalleryGrowth, accountAlive]) //We can use this console.table([variable1,variable2,...]) method to display the output.
