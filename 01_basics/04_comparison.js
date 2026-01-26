@@ -4,7 +4,7 @@
 // console.log(2<=1);
 // console.log(2==1);
 
-// console.log("2" > 1); // => true(Dont know the reason it is drawback)
+// console.log("2" > 1); // => true(String considered as number here ,it is drawback)
 
 // console.log(null == 0); // => false
 
